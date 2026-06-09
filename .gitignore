@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Environment and local configuration
+.env
+.env.local
+
+# Sensitive local files
+credentials.*
+secrets.*
+*.key
+*.pem
