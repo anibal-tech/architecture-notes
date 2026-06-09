@@ -38,9 +38,12 @@ Architecture documentation helps teams understand why decisions were made, what 
 
 ## Status
 
-Work in progress.
+Public portfolio version.
 
-This repository is part of my professional GitHub portfolio and reflects my interest in software architecture, documentation, and technical leadership.
+This repository is part of my professional GitHub portfolio and provides practical references for architecture documentation, technical decision-making, API design, and system thinking.
+
+The content will continue evolving as new examples, diagrams, and architecture notes are added.
+
 
 ## Author
 
