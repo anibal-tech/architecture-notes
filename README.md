@@ -29,6 +29,8 @@ The goal of this repository is to document how technical decisions can be explai
 - API design
 - System context documentation
 - Integration patterns
+- EDI integration validation
+- Enterprise interface mapping
 - Quality attributes
 - Cloud migration readiness
 - Azure migration planning
