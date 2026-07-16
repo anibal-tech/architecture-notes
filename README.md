@@ -12,9 +12,11 @@ This repository contains notes, templates, and examples for documenting architec
 - [Integration patterns](docs/integration-patterns.md)
 - [Quality attributes](docs/quality-attributes.md)
 - [Azure migration readiness checklist](docs/azure-migration-readiness-checklist.md)
+- [EDI integration validation checklist](docs/edi-integration-validation-checklist.md)
 - [Example ADR - AI Email Secretary](examples/adr-001-ai-email-secretary.md)
 - [Example ADR - Azure Migration](examples/azure-migration-adr-example.md)
 - [API contract example](examples/api-contract-example.md)
+- [EDI interface mapping example](examples/edi-interface-mapping-example.md)
 - [Diagrams notes](diagrams/README.md)
 
 ## Purpose
