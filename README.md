@@ -28,6 +28,9 @@ The goal of this repository is to document how technical decisions can be explai
 - System context documentation
 - Integration patterns
 - Quality attributes
+- Cloud migration readiness
+- Azure migration planning
+- Operational readiness
 - Maintainability
 - Scalability
 - Security and privacy considerations
