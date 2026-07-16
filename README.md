@@ -11,7 +11,9 @@ This repository contains notes, templates, and examples for documenting architec
 - [System context example](docs/system-context-example.md)
 - [Integration patterns](docs/integration-patterns.md)
 - [Quality attributes](docs/quality-attributes.md)
+- [Azure migration readiness checklist](docs/azure-migration-readiness-checklist.md)
 - [Example ADR - AI Email Secretary](examples/adr-001-ai-email-secretary.md)
+- [Example ADR - Azure Migration](examples/azure-migration-adr-example.md)
 - [API contract example](examples/api-contract-example.md)
 - [Diagrams notes](diagrams/README.md)
 
