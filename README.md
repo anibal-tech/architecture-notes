@@ -19,6 +19,31 @@ This repository contains notes, templates, and examples for documenting architec
 - [EDI interface mapping example](examples/edi-interface-mapping-example.md)
 - [Diagrams notes](diagrams/README.md)
 
+## Best way to review this repository
+
+This repository is best reviewed as a lightweight architecture documentation library.
+
+Recommended review path:
+
+1. Start with decision documentation:
+   - [Architecture Decision Record template](docs/architecture-decision-record-template.md)
+   - [Example ADR - AI Email Secretary](examples/adr-001-ai-email-secretary.md)
+   - [Example ADR - Azure Migration](examples/azure-migration-adr-example.md)
+
+2. Then review architecture and integration practices:
+   - [API design guidelines](docs/api-design-guidelines.md)
+   - [Integration patterns](docs/integration-patterns.md)
+   - [System context example](docs/system-context-example.md)
+   - [Quality attributes](docs/quality-attributes.md)
+
+3. Finally, review enterprise and cloud-specific examples:
+   - [Azure migration readiness checklist](docs/azure-migration-readiness-checklist.md)
+   - [EDI integration validation checklist](docs/edi-integration-validation-checklist.md)
+   - [EDI interface mapping example](examples/edi-interface-mapping-example.md)
+
+The goal of this repository is to show how technical decisions, integration design, cloud migration readiness, and enterprise architecture notes can be documented clearly and connected to business outcomes.
+
+
 ## Purpose
 
 The goal of this repository is to document how technical decisions can be explained clearly, reviewed by teams, and connected to business outcomes.
