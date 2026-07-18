@@ -4,6 +4,8 @@ Lightweight documentation for technical decisions, API design, and system thinki
 
 This repository contains notes, templates, and examples for documenting architecture in a practical and business-oriented way.
 
+![Architecture Notes documentation flow](assets/diagrams/architecture-notes-flow.png)
+
 ## Repository Contents
 
 - [Architecture Decision Record template](docs/architecture-decision-record-template.md)
